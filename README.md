@@ -37,7 +37,7 @@ npx tailwindcss init
 ```
 
 <div float="right" width="800" height="700">
-  <img align="left" height="530" width="1000" src="Thumbnail.png">
+  <img align="left" height="500" width="1000" src="Thumbnail.png">
 </div>
 
 <br>
