@@ -1,32 +1,43 @@
 # HooBank Ethereum Application 💲
-HooBank is a website for an Ethereum bank that has been built using ReactJS and Tailwind CSS. The website is designed to be responsive and visually appealing, making it easy for users to navigate and use the platform.
 
 ```
 React JS and tailwind CSS-based Ethereum Bank Application.
 ```
-
 <p>
+    <i>
+       HooBank is a modern banking platform that leverages the power of Ethereum blockchain to provide users with a secure, transparent, and decentralized financial ecosystem. The website is built using ReactJS and Tailwind CSS, which ensures that the platform is highly responsive and visually appealing. HooBank's user-friendly interface makes it easy for users to access its features, including account management, transaction history, and balance inquiries. Additionally, HooBank offers a suite of financial products and services, including loans, savings accounts, and investment opportunities, all powered by the Ethereum blockchain.
+    </i>
+    <br>
+    
   <b>
-    Up2date is a powerful task manager tool designed to help you stay on top of your daily to-do lists.<br> 
-    With intuitive features and a user-friendly interface, you can easily create, organize, and manage your tasks, 
-    ensuring that you never miss a deadline or forget an important task. 
+
+- HooBank is a website for an Ethereum bank that provides users with a decentralized financial ecosystem.
+- The platform is built using ReactJS and Tailwind CSS, ensuring it is highly responsive and visually appealing.
+- HooBank leverages the Ethereum blockchain to provide users with a secure, transparent, and decentralized financial ecosystem.
+- The website is designed to be user-friendly, making it easy for users to navigate and use the platform.
+- HooBank's development team also worked closely with end-users to gather feedback and improve the platform's usability and functionality.
+
   </b>
 </p>
-
-
 <br>
 
 ```
 Install dependencies:
 npm install
 
-Run React dev server (http://localhost:3000) using vite
+Run React dev server (http://localhost:3000) using Vite
 npm run dev
 
-Run Mongodb server (http://mongodb://127.0.0.1:27017)
-npm start
+Install Vite
+npm create vite@latest
+
+Install Tailwind CSS
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init
 ```
 
 <div float="right" width="800" height="700">
-  <img align="left" height="700" width="1000" src="Thumbnail.png">
+  <img align="left" height="580" width="1000" src="Thumbnail.png">
 </div>
+
+<br>
