@@ -5,7 +5,7 @@ React JS and tailwind CSS-based Ethereum Bank Application.
 ```
 <p>
     <i>
-       HooBank is a modern banking platform that leverages the power of Ethereum blockchain to provide users with a secure, transparent, and decentralized financial ecosystem. The website is built using ReactJS and Tailwind CSS, which ensures that the platform is highly responsive and visually appealing. HooBank's user-friendly interface makes it easy for users to access its features, including account management, transaction history, and balance inquiries. Additionally, HooBank offers a suite of financial products and services, including loans, savings accounts, and investment opportunities, all powered by the Ethereum blockchain.
+       HooBank is a modern banking platform that leverages the power of the Ethereum blockchain to provide users with a secure, transparent, and decentralized financial ecosystem. The website is built using ReactJS and Tailwind CSS, ensuring the platform is highly responsive and visually appealing. HooBank's user-friendly interface makes it easy for users to access its features.<br>
     </i>
     <br>
     
